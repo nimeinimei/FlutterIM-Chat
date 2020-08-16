@@ -4,6 +4,10 @@
 
 重点：聊天！聊天！聊天！【后台Go】
 
+如果您对这个项目感兴趣，请为我点个star!!!感谢
+
+如果clone代码遇到问题，请提交issue
+
 ------
 
 ### :triangular_flag_on_post:功能介绍：
@@ -14,28 +18,28 @@
 
 ### :deciduous_tree:第三方依赖：
 
-| 依赖               | 说明 |
-| ------------------ | ---- |
-| json_annotation    |      |
-| uuid               |      |
-| websocket_manager  |      |
-| fluttertoast       |      |
-| sqflite            |      |
-| device_info        |      |
-| flutter_sound      |      |
-| provider           |      |
-| path_provider      |      |
-| path               |      |
-| dio                |      |
-| crypto             |      |
-| web_socket_channel |      |
-| video_player       |      |
-| image_picker       |      |
-| screen             |      |
-| after_layout       |      |
-| flutter_webrtc     |      |
-| shared_preferences |      |
-| flutter_jpush      |      |
+| 依赖               | 说明               |
+| ------------------ | ------------------ |
+| json_annotation    | 序列化json         |
+| uuid               | 生成不重复的字符串 |
+| websocket_manager  | websocket          |
+| fluttertoast       | toast消息          |
+| sqflite            |                    |
+| device_info        | 设备信息           |
+| flutter_sound      |                    |
+| provider           | 状态管理           |
+| path_provider      | 路径               |
+| path               |                    |
+| dio                | 网络请求           |
+| crypto             | 加密               |
+| web_socket_channel | websocket通信      |
+| video_player       | 视频播放           |
+| image_picker       | 图片选择器         |
+| screen             |                    |
+| after_layout       |                    |
+| flutter_webrtc     | webrtc             |
+| shared_preferences | 本地持久化         |
+| flutter_jpush      | 推送               |
 
 
 
